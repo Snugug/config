@@ -102,10 +102,13 @@ source $ZSH/oh-my-zsh.sh
 alias clone="git clone"
 alias gcob="git checkout -b"
 alias gum="git pull upstream main && git push origin main"
-alias npmr="npm run"
 alias zshconfig="code ~/.zshrc"
+alias npmr="npm run"
 alias server="npx serve"
+alias devserve="npx vite"
 alias bs="npx vite"
+alias hide-desktop="defaults write com.apple.finder CreateDesktop false; killall Finder"
+alias show-desktop="defaults write com.apple.finder CreateDesktop true; killall Finder"
 
 ##############################
 # Functions
