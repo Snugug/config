@@ -12,3 +12,4 @@
 * Install [Better Touch Tools](https://folivora.ai/) and import the included settings
 * Install [Divvy](https://mizage.com/divvy/) and set up shortcuts (or use [Rectangle](https://github.com/rxhanson/Rectangle))
 * Install [Homebrew](https://brew.sh/)
+* Install [iTerm2](https://iterm2.com/) and the `Snugug.json` profile
